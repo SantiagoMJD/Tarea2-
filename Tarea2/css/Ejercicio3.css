@@ -1,0 +1,125 @@
+table,td,tr{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+table{
+	cursor : pointer;
+}
+/*-----------FILA1----------*/
+tbody tr.fila1 td#Amarillo{
+	color: yellow;
+	
+}
+tbody tr.fila1 td#Amarillo:hover{
+	color: white;
+	background-color: yellow ;
+}
+tbody tr.fila1 td#Verde{
+	color: green;
+}
+tbody tr.fila1 td#Verde:hover{
+	color: white;
+	background-color: green;
+}
+tbody tr.fila1 td#Azul{
+	color: blue;
+}
+tbody tr.fila1 td#Azul:hover{
+	color: white;
+	background-color: blue;
+}
+tbody tr.fila1 td#Rojo{
+	color: red;
+}
+tbody tr.fila1 td#Rojo:hover{
+	color: white;
+	background-color: red;
+}
+/*----------FILA2-----------*/
+tbody tr.fila2 td#Azul{
+	color: blue;
+}
+tbody tr.fila2 td#Azul:hover{
+	color: white;
+	background-color: blue;
+}
+tbody tr.fila2 td#Verde{
+	color: green;
+}
+tbody tr.fila2 td#Verde:hover{
+	color: white;
+	background-color: green;
+}
+tbody tr.fila2 td#Rojo{
+	color: red;
+}
+tbody tr.fila2 td#Rojo:hover{
+	color: white;
+	background-color: red;
+}
+tbody tr.fila2 td#Amarillo{
+	color: yellow;
+}
+tbody tr.fila2 td#Amarillo:hover{
+	color: white;
+	background-color: yellow;
+}
+/*----------FILA3--------*/
+tbody tr.fila3 td#Verde{
+	color: green;
+}
+tbody tr.fila3 td#Verde:hover{
+	color: white;
+	background-color: green;
+}
+tbody tr.fila3 td#Amarillo{
+	color: yellow;
+}
+tbody tr.fila3 td#Amarillo:hover{
+	color: white;
+	background-color: yellow;
+}
+tbody tr.fila3 td#Rojo{
+	color: red;
+}
+tbody tr.fila3 td#Rojo:hover{
+	color: white;
+	background-color: red;
+}
+tbody tr.fila3 td#Azul{
+	color: blue;
+}
+tbody tr.fila3 td#Azul:hover{
+	color: white;
+	background-color: blue;
+}
+/*-------------FILA4----------------*/
+tbody tr.fila4 td#Rojo{
+	color: red;
+}
+tbody tr.fila4 td#Rojo:hover{
+	color: white;
+	background-color: red;
+}
+tbody tr.fila4 td#Azul{
+	color: blue;
+
+}
+tbody tr.fila4 td#Azul:hover{
+   color: white;
+   background-color: blue;
+}
+tbody tr.fila4 td#Amarillo{
+	color: yellow;
+}
+tbody tr.fila4 td#Amarillo:hover{
+	color: white;
+	background-color: yellow;
+}
+tbody tr.fila4 td#Verde{
+	color: green;
+}
+tbody tr.fila4 td#Verde:hover{
+	color: white;
+	background-color: green;
+}

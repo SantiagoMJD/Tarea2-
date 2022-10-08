@@ -1,0 +1,43 @@
+#titulo{
+	color: teal;
+}
+#subtitulo{
+    color:  blue;
+}
+p strong{  /*o bien  strong*/
+	color: red;
+}
+a{
+	color: red;
+}
+a>em{
+	color: blue;
+}
+span.especial{
+	color: purple;
+}
+caption{
+	color: blue;
+}
+table,tr,th,td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+table thead{
+	color: yellow;
+}
+tbody th.especial{
+	color: yellow;
+}
+tbody td{
+	color: green;
+}
+tbody{
+	color: red ;
+}
+tbody strong{
+	color: yellow;
+}
+tfoot{
+	color: red;
+}

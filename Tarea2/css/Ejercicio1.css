@@ -1,0 +1,27 @@
+div{ 
+	font-size: 20px; 
+}
+p{
+	color: #444; 
+}
+#contenedor p{ 
+	color: #447799; 
+}
+a{
+	color: #CC3311; 
+}
+#contenedor em{
+	background: #FFFF00; 
+	padding: .1em; 
+}
+
+em.resaltado{
+	background: #FFCC66; 
+	border: 1px solid #FF9955;
+	padding: 5px; 
+}
+
+.normal span{
+
+	font-weight: bold;
+}
